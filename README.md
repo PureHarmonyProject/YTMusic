@@ -1,2 +1,3 @@
 # YTMusic
-YouTube Music client for HarmonyOS and Oniro platforms
+YouTube Music client for HarmonyOS and Oniro platforms with NewPipe API
+
